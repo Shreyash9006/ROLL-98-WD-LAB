@@ -1,0 +1,18 @@
+library {
+    display: block;
+    background-color: lightyellow;
+}
+
+book {
+    display: block;
+    margin: 10px;
+}
+
+title {
+    color: blue;
+    font-size: 20px;
+}
+
+author {
+    color: green;
+}
